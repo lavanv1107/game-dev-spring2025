@@ -10,7 +10,7 @@ From the playtesters, I learned that maybe the mouse wheel and keyboard were not
 <center><img src="breakout_1.png" alt="Breakout gameplay" width="500"></center>
 
 
-## breakout-2(https://lavanv1107.github.io/game-dev-spring2025/builds/breakout-2a/)
+## [breakout-2](https://lavanv1107.github.io/game-dev-spring2025/builds/breakout-2a/)
 In the second version of my breakout prototype, I decided to continue on with the idea of controlling the paddle like a bat in order to hit the ball. BUt this time around, I wanted to get a bit more creative. I personally find a good thematic to be one of the most enjoyable parts of a game. So, while brainstorming with my partner, I came up with the following ideas:
 - What if instead of a paddle, the player would instead control a knight wielding a sword
 - What if instead of bricks, there would instead be a horde of dragons?
