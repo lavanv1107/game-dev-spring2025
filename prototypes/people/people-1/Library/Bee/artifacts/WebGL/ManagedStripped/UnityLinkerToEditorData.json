@@ -803,6 +803,14 @@
             "icon": null
           },
           {
+            "name": "CapsuleCollider",
+            "scenes": [
+              "Assets/Scenes/SampleScene.unity"
+            ],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "CharacterController",
             "scenes": [
               "Assets/Scenes/SampleScene.unity"
