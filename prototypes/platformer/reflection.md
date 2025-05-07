@@ -26,7 +26,7 @@ Making this prototype taught me a bunch of stuff about platformer design:
 <center><img src="platformer-1.png" alt="platformer gameplay" width="500"></center>
 
 ### Link to Prototype
-[Play the 2D Platformer Prototype](https://github.io/game-dev-spring2025/builds/platformer-1/)
+[Game Dev Platformer](https://lavanv1107.github.io/game-dev-spring2025/builds/platformer-1/)
 
 
 
